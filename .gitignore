@@ -46,3 +46,7 @@ testem.log
 Thumbs.db
 
 package-lock.json
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/07-bonus-loginApp/v15/.suo
